@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sleepless</string>
+    <string name="button1">Set alarm</string>
+    <string name="button2">Dismiss alarm</string>
+</resources>
